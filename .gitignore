@@ -4,6 +4,9 @@
 material/data/*
 .ruff_cache/
 
+#APi key
+env.api_key
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
